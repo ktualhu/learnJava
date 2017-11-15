@@ -1,7 +1,7 @@
 import java.util.Random;
 
 public class BubbleSort {
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
         Random rand = new Random();
         int a[] = new int[10];
         int t = 0;
@@ -29,5 +29,5 @@ public class BubbleSort {
         for(int i = 0; i < a.length; i++) {
             System.out.println("a[" + i + "] = " + a[i]);
         }
-    }*/
+    }
 }
